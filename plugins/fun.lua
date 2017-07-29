@@ -1,6 +1,6 @@
 
 
---Special Thx To @aliaz003 CH;@RICHENERGY
+--Special Thx To @RsEvEn CH;@RsEvEn
 --------------------------------
 
 local function run_bash(str)
@@ -352,7 +352,7 @@ helpfun_en = [[
 🔘*شما میتوانید از [!/#] در اول دستورات برای اجرای آنها بهره بگیرید*
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 🔘_You can use_ *[!/#]* _at the beginning of commands._
-🌐 @RICHENERGY 🌐 ;)]]
+🌐 @RsEvEn 🌐 ;)]]
 else
 
 helpfun_en = [[
@@ -394,7 +394,7 @@ helpfun_en = [[
 🔘*شما میتوانید از [!/#] در اول دستورات برای اجرای آنها بهره بگیرید*
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 🔘_You can use_ *[!/#]* _at the beginning of commands._
-🌐 @RICHENERGY 🌐 ;)]]
+🌐 @RsEvEn 🌐 ;)]]
 end
 return helpfun_en..msg_caption
 end
@@ -442,7 +442,7 @@ helpfun_fa = [[
 🔘*شما میتوانید از [!/#] در اول دستورات برای اجرای آنها بهره بگیرید*
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 🔘_You can use_ *[!/#]* _at the beginning of commands._
-🌐 @RICHENERGY 🌐 ;)]]
+🌐 @RsEvEn 🌐 ;)]]
 else
 
 helpfun_fa = [[
@@ -484,7 +484,7 @@ helpfun_fa = [[
 🔘*شما میتوانید از [!/#] در اول دستورات برای اجرای آنها بهره بگیرید*
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 🔘_You can use_ *[!/#]* _at the beginning of commands._
-🌐 @RICHENERGY 🌐 ;)]]
+🌐 @RsEvEn 🌐 ;)]]
 end
 return helpfun_fa..msg_caption
 end
@@ -523,4 +523,4 @@ return {
 	run = run,
 	}
 
---#EDITby @RICHENERGY:)
+--#EDITby @RsEvEn:)

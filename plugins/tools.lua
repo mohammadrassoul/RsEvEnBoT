@@ -1,5 +1,5 @@
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#@RsEvEn
+-----@RsEvEn     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
 local SUDO = 323046540 -- put Your ID here! <===
 function exi_files(cpath)
@@ -788,7 +788,7 @@ end
 
 if ((matches[1]:lower() == "creayesuper" or matches[1] == 'ساخت سوپرگروه' and is_mod(msg))) and is_admin(msg) then
 local text = matches[2]
-tdcli.createNewChannelChat(text, 1, '@energyTeam', (function(b, d) tdcli.addChatMember(d.id_, msg.from.id, 0, dl_cb, nil) end), nil)
+tdcli.createNewChannelChat(text, 1, '@RsEvEn', (function(b, d) tdcli.addChatMember(d.id_, msg.from.id, 0, dl_cb, nil) end), nil)
    if not lang then 
 return '_SuperGroup Has Been Created and_ [`'..msg.from.id..'`] _Joined To This SuperGroup._'
   else
@@ -1067,7 +1067,7 @@ patterns = {
 }, 
 run = run, pre_process = pre_process
 }
--- #End By @RICH_ENERGY
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-- #End By @RsEvEn
+-----my_name_is_MoHaMmAdRaSsOuL*#@RsEvEn
+-----@RsEvEn     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
