@@ -33,7 +33,8 @@ do local _ = {
     "addkick",
     "delall",
     "fun",
-    "CleanDeletedAccount"
+    "CleanDeletedAccount",
+    "openchat"
   },
   info_text = "》Beyond Reborn v6.0\nAn advanced administration bot based on https://valtman.name/telegram-cli\n\n》https://github.com/telebombang2018/tele_bom_bang_new \n\n\n\n》Special thanks to :\n》beyond_permag_bombang\n\n》Our channel :\n》@RsEvEn%%@RsEvEn\n\n》Our website :\n》http://telebombang.blogfa.com\n",
   moderation = {
